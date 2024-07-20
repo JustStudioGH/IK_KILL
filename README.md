@@ -2,6 +2,8 @@
 # IK_KILL
 ### Данный репозиторий - вирус НЕ ЗАПУСКАЙТЕ ЭТО НА РЕАЛЬНЫХ МАШИНАХ (*ПК)
 
+Пароль - 0202
+
 IK_KILL - Это мой исходный код "защиты" для вируса (Создавался для Недохакер). Вы можете свободно его использовать в своих проектах.
 > Проект не завершён до конца!
 
@@ -13,6 +15,8 @@ IK_KILL - Это мой исходный код "защиты" для вирус
 
 ## IK_KILL
 ### This repository - is A virus DO NOT RUN THIS ON REAL MACHINES (*PC)
+
+Password - 0202
 
 IK_KILL is my "protection" source code for the virus (It was created for a Nedohackers). You can use it freely in your projects.
 > The project is not completed to the end!
