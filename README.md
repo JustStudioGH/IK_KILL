@@ -11,6 +11,7 @@ IK_KILL - Это мой исходный код "защиты" для вирус
 > Не обязательно
 
 ----- Версии/Изменения -----
+- 1.1_NR (1.1_NotReady) Исправленны ошибки + Новые файлы
 - 1.0_NR (1.0_NotReady) Проект был добавлен на гитхаб
 
 ## IK_KILL
@@ -25,4 +26,5 @@ IK_KILL is my "protection" source code for the virus (It was created for a Nedoh
 > Not necessary
 
 ----- Versions/Changes -----
+- 1.1_NR (1.1_NotReady) Fixed error + New files
 - 1.0_NR (1.0_Not Ready) The project has been added to github
